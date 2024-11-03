@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+# Hello, world!
+
+This is a quick test to see how this file works.
+Hopefully it does.
+
+``` ruby
+puts "look mom im on a website"
+```
